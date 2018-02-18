@@ -8,5 +8,6 @@
 <body>
 <p>git <strong>test</strong> です</p>
 <strong>Hello Git!!!</strong>
+<strong>branch test!</strong>
 </body>
 </html>
